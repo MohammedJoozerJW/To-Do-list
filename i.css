@@ -1,0 +1,39 @@
+body{
+    background: linear-gradient(to right, purple, pink, orange);
+
+}
+header{
+    padding: 0 20px;
+}
+header h1{
+    text-align: center;
+}
+header input{
+    padding: 5px;
+    width: 80%;
+    font-size: 17px;
+    border-radius: 0px 25px 0px 15px;
+}
+header button{
+    padding: 5px;
+    background:aqua;
+    color: rgb(70, 44, 6);
+    border-radius: 10px 0pc ;
+}
+.items{
+    margin: 20px 0;
+}
+.items li{
+    background: #4bc0f7;
+    color: white;
+    font-size: 17px ;
+    padding: 5px;
+    margin: 10px 0;
+    border-radius: 10px 0pc ;
+}
+.btn{
+    background-color: #e4bbb1;
+    right: 30px;
+    position: absolute;
+    border-radius: 0px 10px 0px 10px;
+}
